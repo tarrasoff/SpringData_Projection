@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringDataProjectionApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringDataProjectionApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringDataProjectionApplication.class, args);
+    }
 
 }
